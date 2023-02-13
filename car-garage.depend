@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1673286852 source:c:\developer\c_programming\car-garage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1673271387 source:c:\developer\c_programming\car-garage\cars.c
+	<stdio.h>
+
